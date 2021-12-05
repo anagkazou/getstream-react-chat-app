@@ -5,6 +5,7 @@ import Cookies from "universal-cookie/es6";
 
 import { ChannelListContainer, ChannelContainer } from "./components";
 
+import './App.css'
 
 //TODO: Store this key in ENV file
 const apiKey = "v5r44zjnwr2y";
