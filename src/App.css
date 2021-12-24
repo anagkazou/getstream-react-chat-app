@@ -1704,11 +1704,11 @@
     outline: none;
   }
   
-  .team-channerl-header_menu-icon {
+  .team-channel-header_menu-icon {
     display: none;
   }
   
-  .channerl-list__container-toggle {
+  .channel-list__container-toggle {
     display: none;
     height: 50px;
     width: 50px;
@@ -1741,7 +1741,7 @@
       display: none;
     }
   
-    .team-channerl-header_menu-icon {
+    .team-channel-header_menu-icon {
       display: flex;
     }
   
@@ -1779,7 +1779,7 @@
       width: 100%;
     }
   
-    .channerl-list__container-toggle {
+    .channel-list__container-toggle {
       display: flex;
     }
   
@@ -1804,7 +1804,7 @@
   }
   
   @media screen and (max-width: 650px) {
-    .channerl-list__container-toggle {
+    .channel-list__container-toggle {
       right: -3%;
     }
   }
@@ -1814,7 +1814,7 @@
       width: 150px;
     }
   
-    .channerl-list__container-toggle {
+    .channel-list__container-toggle {
       right: -5%;
     }
   }
